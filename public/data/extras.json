@@ -1,0 +1,57 @@
+[
+  {
+    "id": "oven_cleaning",
+    "name": "Oven Deep Clean",
+    "price": 50,
+    "icon": "Flame",
+    "description": "Complete oven degreasing and sanitization"
+  },
+  {
+    "id": "carpet_steam",
+    "name": "Carpet Steam Cleaning",
+    "price": 80,
+    "icon": "Layers",
+    "description": "Professional carpet deep cleaning"
+  },
+  {
+    "id": "upholstery",
+    "name": "Upholstery Cleaning", 
+    "price": 60,
+    "icon": "Sofa",
+    "description": "Sofa and furniture fabric cleaning"
+  },
+  {
+    "id": "window_cleaning",
+    "name": "Window Cleaning",
+    "price": 50,
+    "icon": "Window",
+    "description": "Internal window cleaning and polishing"
+  },
+  {
+    "id": "appliance_clean",
+    "name": "Appliance Cleaning",
+    "price": 60,
+    "icon": "Microwave",
+    "description": "Microwave, fridge and dishwasher cleaning"
+  },
+  {
+    "id": "stair_case",
+    "name": "Stair Case",
+    "price": 20,
+    "icon": "Stairs",
+    "description": "Complete staircase cleaning and maintenance"
+  },
+   {
+     "id": "staircase_with_carpet",
+      "name": "Staircase with Carpet", 
+      "price": 35,
+       "icon": "Stairs",
+        "description": "Complete staircase cleaning including carpet" },
+  {
+    "id": "commercial_specs",
+    "name": "Commercial Specs",
+    "price": 120,
+    "icon": "Building",
+    "description": "Specialized commercial space cleaning"
+  }
+]

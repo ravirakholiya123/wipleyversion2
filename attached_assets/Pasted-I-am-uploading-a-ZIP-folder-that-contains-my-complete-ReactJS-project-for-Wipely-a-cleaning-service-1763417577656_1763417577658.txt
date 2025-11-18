@@ -1,0 +1,89 @@
+I am uploading a ZIP folder that contains my complete ReactJS project for Wipely, a cleaning service provider website in Australia.
+The ZIP includes all files and resources except node_modules.
+
+Please convert this entire project into Next.js 14 (App Router) with better SEO, while keeping the design and functionality exactly the same.
+
+🎯 Your Tasks
+1. Full Migration to Next.js 14
+
+Convert the entire React project into Next.js App Router format
+
+Keep 100% of the UI design the same
+
+Maintain all features and user flows
+
+Convert React Router to Next.js routing
+
+Use /app directory structure
+
+Fix all imports and paths
+
+Convert components into server or client components as needed
+
+2. SEO Optimization for Wipely (Australia Cleaning Service Website)
+
+Add SEO-friendly titles and meta descriptions using Next.js Metadata API
+
+Implement Open Graph (OG) tags
+
+Add Twitter Card metadata
+
+Add JSON-LD structured data for:
+
+Local Business
+
+Cleaning Service provider (Australia)
+
+Optimize images using next/image
+
+Use semantic HTML tags
+
+Improve heading structure (H1, H2, H3)
+
+Ensure every page has meaningful metadata
+
+Generate sitemap and robots.txt automatically
+
+Improve accessibility (ARIA labels, alt text, semantic elements)
+
+3. Performance Improvements
+
+Use Next.js Image Optimization
+
+Use Next.js Optimized Fonts
+
+Enable caching where appropriate
+
+Use Server-Side Rendering (SSR) or Static Generation (SSG) depending on page type
+
+Remove unused code
+
+Reduce bundle size
+
+Lazy-load heavy components when needed
+
+4. Code Quality Enhancements
+
+Clean and organize the folder structure
+
+Split components more logically if needed
+
+Rebuild API calls using Next.js API routes if applicable
+
+Keep the code SEO-friendly and performance-optimized
+
+Avoid breaking any visual layout
+
+Use TypeScript only if the migration is easy; otherwise stay in JS
+
+🔥 Final Output Requirements
+
+Provide a complete and working Next.js 14 project that:
+
+Maintains the exact visual design of Wipely
+
+Has improved SEO
+
+Has improved performance
+
+Can run immediately using:

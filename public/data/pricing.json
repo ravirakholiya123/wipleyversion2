@@ -1,0 +1,37 @@
+{
+  "regular_cleaning": {
+    "per_bedroom": 50,
+    "per_bathroom": 20,
+    "per_kitchen": 80,
+    "per_livingroom": 30,
+    "base_price": 0
+  },
+  "end_of_lease": {
+    "per_bedroom": 60,
+    "per_bathroom": 45,
+    "per_kitchen": 120,
+    "per_livingroom": 20,
+    "base_price": 0
+  },
+  "spring_cleaning": {
+    "per_bedroom": 60,
+    "per_bathroom": 45,
+    "per_kitchen": 120,
+    "per_livingroom": 20,
+    "base_price": 120
+  },
+  "custom_cleaning": {
+    "per_bedroom": 60,
+    "per_bathroom": 45,
+    "per_kitchen": 120,
+    "per_livingroom": 20,
+    "carpet_steam": 80,
+    "upholstery": 60,
+    "mattress": 50,
+    "oven": 70,
+    "bbq": 65,
+    "stairs": 40,
+    "commercial": 150,
+    "base_price": 0
+  }
+}
