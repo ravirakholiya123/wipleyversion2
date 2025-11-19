@@ -37,10 +37,10 @@ const Footer = () => {
             <li>🚪 <Link href="/services/end-of-lease" className="hover:text-white">End of Lease Cleaning</Link></li>
             <li>✨ <Link href="/services/spring-cleaning" className="hover:text-white">One-off Spring Cleaning</Link></li>
             <li>🛠️ <Link href="/services/custom-cleaning" className="hover:text-white">Custom Cleaning</Link></li>
-            <li>🧽 <Link href="/services/carpet-cleaning" className="hover:text-white">Carpet Steam Cleaning</Link></li>
+            {/*<li>🧽 <Link href="/services/carpet-cleaning" className="hover:text-white">Carpet Steam Cleaning</Link></li>*/}
             <li>🛋️ <Link href="/services/upholstery-cleaning" className="hover:text-white">Upholstery Cleaning</Link></li>
             <li>🔥 <Link href="/services/oven-cleaning" className="hover:text-white">Oven Cleaning</Link></li>
-            <li>🍖 <Link href="/services/bbq-cleaning" className="hover:text-white">BBQ Cleaning</Link></li>
+            {/*<li>🍖 <Link href="/services/bbq-cleaning" className="hover:text-white">BBQ Cleaning</Link></li>*/}
             <li>🏢 <Link href="/services/commercial-cleaning" className="hover:text-white">Commercial Spaces</Link></li>
           </ul>
         </div>

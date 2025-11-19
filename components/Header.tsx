@@ -44,10 +44,10 @@ const Header: React.FC = () => {
         { name: 'End of Lease Cleaning', href: '/services/end-of-lease' },
         { name: 'Hourly Spring Cleaning', href: '/services/spring-cleaning' },
         { name: 'Custom Cleaning', href: '/services/custom-cleaning' },
-        { name: 'Carpet Steam Cleaning', href: '/services/carpet-cleaning' },
+        //{ name: 'Carpet Steam Cleaning', href: '/services/carpet-cleaning' },
         { name: 'Upholstery Cleaning', href: '/services/upholstery-cleaning' },
         { name: 'Oven Cleaning', href: '/services/oven-cleaning' },
-        { name: 'BBQ Cleaning', href: '/services/bbq-cleaning' },
+        //{ name: 'BBQ Cleaning', href: '/services/bbq-cleaning' },
         { name: 'Commercial Spaces', href: '/services/commercial-cleaning' }
       ]
     },
